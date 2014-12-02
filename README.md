@@ -1,4 +1,4 @@
 To-Do-List
 ==========
 
-Simple to-do list using 
+Simple to-do list using Javascript
