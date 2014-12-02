@@ -1,0 +1,9 @@
+
+Files:
+-todo.html ------> index page
+
+Folders:
+-js -----> folder containing javascript scripts
+-images -----> folder containing images used in the web page
+-fonts -----> folder containing all the fonts needed in the web page
+-css ------> folder containing css files for the index page
